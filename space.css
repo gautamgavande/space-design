@@ -1,0 +1,218 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* background-color:rgb(126, 71, 71); */
+
+}
+html,body{
+    width: 100%;
+    height: 100%;
+}
+#main{
+    height: 100%;
+    width: 100%;
+    background-image: url(space.jpg);
+    background-size: cover;
+}
+#strof{
+    position: absolute;
+    top: 8%;
+    left: 5%;
+    height: 600px;
+    width: 600px;
+}
+#dab{
+    position: absolute;
+    top: 38%;
+    left: 40%;
+    height: 2.5px;
+    width: 10%;
+background-color: greenyellow;}
+#univers{
+    position: absolute;
+    top: 18%;
+    left: 45%;
+    color: white;
+    font-size: 100px;    
+}
+#univers span{
+    color: aqua;
+}
+#tre{
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    color: white;
+    font-size: 100px;    
+}
+#tre span{
+    color: coral;
+}
+#dab1{
+    position: absolute;
+    top: 38%;
+    right: 14%;
+    height: 2.5px;
+    width: 10%;
+background-color:greenyellow;
+}
+#home{
+    position: absolute;
+    top: 20px;
+    left: 3%;
+    color: white;
+    font-family: sans-serif;
+}
+#about{
+    position: absolute;
+    top: 20px;
+    left: 57%;
+    color: white;
+    font-family: sans-serif;
+}
+#toor{
+    position: absolute;
+    top: 20px;
+    left: 69%;
+    color: white;
+    font-family: sans-serif;
+}
+#ple{
+    position: absolute;
+    top: 20px;
+    left: 81%;
+    color: white;
+    font-family: sans-serif;
+}
+#con{
+    position: absolute;
+    top: 20px;
+    left: 93%;
+    color: white;
+    font-family: sans-serif;
+}
+#defi{
+    position: absolute;
+    top: 55%;
+    left: 45%;
+    color: white;
+    font-family: sans-serif;
+    font-weight: 500;
+}
+#office{
+    position: absolute;
+    top: 79%;
+    left: 45%;
+    color: orangered;
+}
+#ofi{
+    position: absolute;
+    top: 84%;
+    left: 45%;
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#get{
+    position: absolute;
+    top: 79%;
+    left: 65%;
+    color: orangered;
+}
+#t{
+    position: absolute;
+    top: 84%;
+    left: 65%;
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+#e{
+    position: absolute;
+    top: 88%;
+    left: 65%;
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;   
+}
+#mo{
+    position: absolute;
+    top: 92%;
+    left: 65%;
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+#a{
+    position: absolute;
+    top: 78%;
+    left: 85%;
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#b{
+    position: absolute;
+    top: 78%;
+    left: 88%;
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#line{
+    position: absolute;
+    top: 33%;
+    right: 1.5%;
+    height: 30%;
+    width: 3px;
+    background-color:white;
+}
+#l{
+    position: absolute;
+    top: 29%;
+    right: 1%;
+    writing-mode: vertical-lr;
+    color: white;
+}
+#li{
+    position: absolute;
+    top: 65%;
+    right: 1%;
+    writing-mode: vertical-lr;
+    color: white;
+
+}
+#twi{
+    position: absolute;
+    top: 45%;
+    left: 20px;
+    color: white;
+    writing-mode:vertical-rl;
+
+}
+#line1{
+    position: absolute;
+    top: 33%;
+    left: 40px;
+    height: 35%;
+    width: 3px;
+    background-color:white;
+}
+#ll{
+    position: absolute;
+    top: 29%;
+    left: 33px;
+    writing-mode: vertical-rl;
+    color: white;
+}
+#lil{
+    position: absolute;
+    top: 70%;
+    left: 33px;
+    writing-mode: vertical-rl;
+    color: white;
+}
+#img{
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    top: 88%;
+    left: 35px;
+}
